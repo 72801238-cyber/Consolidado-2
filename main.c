@@ -225,11 +225,11 @@ int main() {
 
     do {
         printf("\n===== SISTEMA DE OPERACIONES MATEMATICAS =====\n");
-        printf("1. Ingresar operacion (a pila y cola)\n");
-        printf("2. Procesar operacion (de la cola)\n");
+        printf("1. Ingresar operacion \n");
+        printf("2. Procesar operacion \n");
         printf("3. Mostrar pila\n");
         printf("4. Mostrar cola\n");
-        printf("5. Mostrar historial (lista)\n");
+        printf("5. Mostrar historial \n");
         printf("6. Mostrar hash\n");
         printf("7. Salir\n");
         printf("Seleccione una opcion: ");
