@@ -156,7 +156,7 @@ void mostrarHash() {
     }
 }
 
-// ------------------ Evaluar Operación ------------------
+// ------------------ Evaluar OperaciÃ³n ------------------
 double evaluarOperacion(const char* op) {
     char *ptr;
     double a, b;
